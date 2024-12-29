@@ -1,0 +1,6 @@
+# /brc交易平台/交易所源码/交易/币币交易/多语言切换
+
+演示地址：<br>电脑端：example.com.cn<br>测试用户：111111 密码：111111<br>（演示如果打不开请联系本店客服）<br>后台地址：example.com.cn<br>具体以演示站为主。<br>购买前需要了解的一些事<br>1、源码属于虚拟产品，购买前，请认真测试，一切问题都可向技术咨询清楚再购买，本店保证发货源码与测试完全一致，若非此项，本店谢绝退款！<br>2、商品售价均为源码价格，不含其他技术服务，请买家慎重考虑，谢绝以此为由退款，若需要提供其他技术服务，这边会合理评估，双方同意额外支付合理的相应费用。<br>3、购买以购买时演示站为准，不包括未来二开、客户定制等修改后的版本。<br>4、免责声明，源码仅供交流测试，请勿用于商业途径及非法运营等，一切法律责任与本店及公司等相关人员无关，付款、购买代表同意该条款。<br>支持安卓版、苹果版<br>支持多语言、英语、汉语简、汉语繁、日语、韩语<br>主要功能包括币币交易、交易、交易、。<br>首页页面为轮播图、交易行情、入门指引、主流币的涨幅行情。<br>行情页面为各个交易对的行情信息，后台可调控交易对。<br>币币交易页面可进行币币交易并查看K线行情。<br>资产页面包含总资产的所持各个币种的资产。<br>后台可对用户、钱包、资产、手续费等各个方面进行编辑.<br>（演示如果打不开请联系本店客服）<br>有其他定制二开需求请联系客服沟通<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/BwrGZ" style="color: red;">https://mega-file.org/BwrGZ</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
